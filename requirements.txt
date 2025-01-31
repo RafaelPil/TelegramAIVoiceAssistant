@@ -1,0 +1,5 @@
+python-telegram-bot 
+google-generativeai 
+SpeechRecognition 
+pydub 
+python-dotenv
